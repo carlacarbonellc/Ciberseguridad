@@ -1,0 +1,3 @@
+num_links,num_forms,num_inputs,num_scripts,has_password,num_iframes,num_images,num_external_links,URL,label
+25,2,6,5,1,1,2,10,http://fake-login-test.net,1
+30,3,8,6,1,2,1,15,http://malicious-example.com,1
